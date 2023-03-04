@@ -1,4 +1,3 @@
-# sporkdao-token-subgraph
 <div align="center">
   <h1 align="center">SporkDAO Token Subgraph</h1>
   <h2 align="center">Subgraph for the SporkDAO Token</h2>
