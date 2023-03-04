@@ -6,7 +6,7 @@ dataSources:
     name: sporkdao
     network: matic
     source:
-      address: "0xb9C71899DE421F87c253C78388e0f71d0a71a613"
+      address: "0x9CA6a77C8B38159fd2dA9Bd25bc3E259C33F5E39"
       abi: sporkdao
       startBlock: 16081947
     mapping:
